@@ -5,7 +5,7 @@ It showcases my skills, projects, and professional background through an interac
 
 ---
 
-## 🚀 **Live Preview**  
+## 🚀 **Live View**  
 🌐  View the Live Site Here [my-portfolio](https://meahadi-hasan.github.io/my-portfolio)  
 
 ---
