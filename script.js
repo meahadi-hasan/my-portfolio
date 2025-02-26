@@ -1,3 +1,4 @@
+// Hamburger
 const hamburger = document.getElementById('hamburger'); 
 const menu = document.querySelector('.menu'); 
 
@@ -16,6 +17,7 @@ hamburger.addEventListener('click', function () {
 	} 
 });
 
+// Message Form
 document.addEventListener("DOMContentLoaded", () => {
 	const form = document.getElementById("contactForm");
 	const toast = document.getElementById("toast");
@@ -63,15 +65,3 @@ document.addEventListener("DOMContentLoaded", () => {
 	  }
 	});
   });
-  
-  
-  
-
-
-document.addEventListener('DOMContentLoaded', () => {
-    const toggleButton = document.getElementById('darkModeToggle');
-    
-    toggleButton.addEventListener('click', () => {
-        document.body.classList.toggle('dark-mode');
-    });
-});
